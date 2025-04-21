@@ -13,11 +13,11 @@ const VoiceToTextMalay = () => {
     const [micPermission, setMicPermission] = useState(null); // 'granted', 'denied', or null
 
     const wordImageMap = {
-        'cara': '/images/signlanguage/malay/cara.png',
-        'makan': '/images/signlanguage/malay/makan.png',
-        'nasi': '/images/signlanguage/malay/nasi.png',
-        'goreng': '/images/signlanguage/malay/goreng.png',
-        'ayam': '/images/signlanguage/malay/ayam.png',
+        'cara': '/images/signlanguage/malay/cara.jpg',
+        'makan': '/images/signlanguage/malay/makan.jpg',
+        'nasi': '/images/signlanguage/malay/nasi.jpg',
+        'goreng': '/images/signlanguage/malay/goreng.jpg',
+        'ayam': '/images/signlanguage/malay/ayam.jpg',
         // Add more words and their corresponding image URLs here
     };
 
